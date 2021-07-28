@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I am Florencia but i prefer the nickname Tori, my pronouns are She/her
+
+I was born and live in Cordoba Argentina and I am 28 years old,
+im currently searching for my first job as web developer junior, i love to learn and challenge myself.
+
+My technologies and languages:
+-Javascript
+-Python
+-HTML
+-CSS
+
+Im learning:
+-Node js
+-Angular
+
+You can reach me through my mail: florguazzini92@gmail.com
+
+
 <!--
 **ToriGuaz/ToriGuaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
