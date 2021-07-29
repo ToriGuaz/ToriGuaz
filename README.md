@@ -15,7 +15,7 @@ Im learning:
 -Node js
 -Angular
 
-You can reach me through my mail: florguazzini92@gmail.com
+You can reach me through my Linkedln: https://www.linkedin.com/in/florencia-guazzini-37794612a/
 
 
 <!--
