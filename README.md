@@ -12,10 +12,10 @@ My technologies and languages:
 -CSS
 
 Im learning:
+-React 
 -Node js
--Angular
 
-You can reach me through my Linkedln: https://www.linkedin.com/in/florencia-guazzini-37794612a/
+You can reach me through <a href='https://www.linkedin.com/in/florencia-guazzini-37794612a/' target='_blank'>my Linkedln </a>
 
 
 <!--
