@@ -15,7 +15,7 @@ Im learning:
 -React 
 -Node js
 
-You can reach me through <a href='https://www.linkedin.com/in/florencia-guazzini-37794612a/' target='_blank'>my Linkedln </a>
+You can reach me through <a href='https://www.linkedin.com/in/florencia-guazzini-37794612a/' >my Linkedln </a> https://www.linkedin.com/in/florencia-guazzini-37794612a/
 
 
 <!--
