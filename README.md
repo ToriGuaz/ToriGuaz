@@ -10,8 +10,7 @@ My technologies and languages:
 -Python
 -HTML
 -CSS
-
-Im learning:
+-Java
 -React 
 -Node js
 
